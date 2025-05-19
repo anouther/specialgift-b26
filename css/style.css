@@ -259,7 +259,7 @@ body {
   height: var(--h);
   border-top-right-radius: var(--h);
   border-bottom-left-radius: var(--h);
-  background-image: linear-gradient(to top, rgb(39, 43, 89, 0.4), #ffffff);
+  background-image: linear-gradient(to top, rgb(3, 15, 104, 0.4), #b3b1c8);
 }
 
 .flower__line__leaf--1 {
@@ -543,7 +543,7 @@ body {
 .flower__g-long {
   --w: 2vmin;
   --h: 6vmin;
-  --c: #5d99b6;
+  --c: #168350;
   position: absolute;
   bottom: 10vmin;
   left: -3vmin;
